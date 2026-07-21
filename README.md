@@ -7,7 +7,7 @@ StudyMate helps students understand difficult concepts, generate quizzes, create
 ## Live Demo
 
 - **Application:** https://studymate-ai-kf8mhcbqdtwnltfzbdprc2.streamlit.app/
-- **Source Code:** 
+- **Source Code:** https://github.com/sahanajep/studymate-ai/tree/main
 
 ## Quick Start
 
