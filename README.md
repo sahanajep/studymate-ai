@@ -1,6 +1,6 @@
 # StudyMate AI Tutor 📚
 
-An object-oriented AI study assistant built with Python, Pandas, Google Gemini, and Streamlit.
+An AI study assistant built with Python, Pandas, Google Gemini, and Streamlit.
 
 StudyMate helps students understand difficult concepts, generate quizzes, create flashcards, request hints, build study plans, and track their study activity through a Pandas-powered dashboard.
 
