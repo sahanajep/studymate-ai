@@ -235,14 +235,9 @@ The following files are excluded through `.gitignore`:
 - Spaced-repetition flashcards
 - Automated testing
 
-## Resume Summary
-
-> Built and deployed an object-oriented AI study assistant using Python, Pandas, the Gemini API, and Streamlit. Implemented multi-turn conversational context, personalized tutoring instructions, study-history analytics, an interactive dashboard, and downloadable CSV reports.
-
 ## Author
 
-**Your Name**
+**Sahana Phillips**
 
-- GitHub: Add your GitHub profile link
-- LinkedIn: Add your LinkedIn profile link
-- Portfolio: Add your portfolio link
+- GitHub: https://github.com/sahanajep
+- LinkedIn: https://www.linkedin.com/in/sahana-phillips-7a7459325/
